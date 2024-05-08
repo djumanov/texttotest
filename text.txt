@@ -1,0 +1,173 @@
+Yarimo‘tkazgich – bu kristall qattiq jism, uning elektr o‘tkazuvchanligi…..{
+= absolyut nol temperaturada nolga teng va temperatura ortishi bilan ortadi
+~ absolyut nol temperaturada nolga teng emas va temperatura ortishi bilan kamayadi
+~ absolyut nol temperaturada maksimal qiymatga ega va temperatura ortishi bilan kamayadi
+~ absolyut nol temperaturada nolga teng va temperatura ortishi bilan o‘zgarmaydi}
+
+termorezistor toki qiymati o‘zgaradi{
+= atrof muxit temperaturasi o‘zgarishi bilan
+~ atrof muxit temperaturasi ortishi bilan
+~ atrof muxit temperaturasi kamayishi bilan
+~ yoritilganlik o‘zgarishi bilan}
+
+Yarimo‘tkazgichli  diod…..{
+~ bitta  p-n o‘tish va uchta elektrodga ega
+= bitta  p-n o‘tish va ikkita elektrodga ega
+~ ikkita   p-n o‘tish va  uchta elektrodga ega
+~ faqat   p-n o‘tishga ega, elektrodlari yo‘q}
+
+Arsenid  galliyning taqiqlangan zona kengligi ... tashkil etadi.{
+~ >3eV
+= 1,43eV
+~ 1,12eV
+~ 0,67eV}
+
+Germaniyning taqiqlangan zonasi kengligi ... tashkil etadi.{
+~ 1,43eV 
+= 0,67eV
+~ >3eV
+~ 1,12eV}
+
+Dielektrikning taqiqlangan zona kengligi ... tashkil etadi.{
+~1,43eV 
+~ 0,67eV
+= >3eV
+~ 1,12eV}
+
+Kremniyning taqiqlangan zona kengligi ... tashkil etadi.{
+~1,43eV 
+~ 0,67eV
+~>3eV
+=1,12eV}
+
+n-yarimo‘tkazichlar uchun qaysi zaryad tashuvchilar asosiy hisoblanadi?{
+~ kovaklar
+= elektronlar
+~ musbat ionlar
+~ manfiy ionlar}
+
+n-yarimo‘tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi?{
+~ kovaklar
+= elektronlar
+~ musbat ionlar
+= manfiy ionlar}
+
+Dielektrik – bu kristall qattiq jism, uning  elektr o‘tkazuvchanligi{
+~ absolyut nol temperaturada nolga teng va temperatura ortishi bilan ortadi
+= absolyut nol temperaturada nolga teng va temperatura ortishi bilan o‘zgarmaydi
+~ absolyut nol temperaturada nolga teng emas va temperatura ortishi bilan kamayadi
+~ absolyut nol temperaturada maksimal qiymatga ega va temperatura ortishi bilan kamayadi}
+
+p-turdagi yarimo‘tkazgich – bu…….{
+~ kirishmasiz yarimo‘tkazgich
+= aktseptor kirishmali yarimo‘tkazgich
+= donor kirishmalar kontsentratsiyasi aktseptor kirishmalar kontsentratsiyasiga teng yarimo‘tkazich
+~ donor kirishmali yarimo‘tkazgich}
+
+i- turdagi yarimo‘tkazgich – bu……{
+~ aktseptor kirishmali yarimo‘tkazgich
+= kirishmasiz yarimo‘tkazgich
+~ donor kirishmali yarimo‘tkazgich
+~ donor kirishmalar kontsentratsiyasi aktseptor kirishmalar kontsentratsiyasiga teng yarimo‘tkazich}
+
+n- turdagi yarimo‘tkazgich – bu……{
+~ aktseptor kirishmali yarimo‘tkazgich
+= donor kirishmali yarimo‘tkazgich
+~ kirishmasiz yarimo‘tkazgich
+~ donor kirishmalar kontsentratsiyasi aktseptor kirishmalar kontsentratsiyasigi teng yarimo‘tkazich}
+
+Kompensatsiyalangan yarimo‘tkazgich – bu……..{
+~ aktseptor kirishmali yarimo‘tkazgich
+~ donor kirishmali yarimo‘tkazgich
+~ kirishmasiz yarimo‘tkazgich
+= donor kirishmalar kontsentratsiyasi aktseptor kirishmalar kontsentratsiyasigi teng yarimo‘tkazich}
+
+Diffuziya - bu………. {
+~ elektr maydon ta’sirida zaryad tashuvchilarning harakati
+= kotsentratsiyalar farqi tufayli zaryad tashuvchilarning harakati
+~ erkin zaryad tashuvchilarning paydo bo‘lish hodisasi
+~ erkin zaryad tashuvchilarning yo‘qolish hodisasi}
+
+Rekombinatsiya  –bu……...{
+~ kotsentratsiyalar farqi tufayli zaryad tashuvchilarning harakati
+~ elektr maydon ta’sirida zaryad tashuvchilarning harakati
+= erkin zaryad tashuvchilarning yo‘qolish hodisasi
+~ erkin zaryad tashuvchilarning paydo bo‘lish hodisasi}
+
+Injektsiya-bu………..{
+~ p-n o‘tish teskari ulanganda asosiy bo‘lmagan zaryad tashuvchilarning harakati
+= n-p o‘tish to‘g‘ri ulanganda elektronlar oqimi n sohadan p sohaga    harakatlanadi, kovaklar esa teskari yo‘nalishda harakatlanadi
+~ erkin zaryad tashuvchilarning xaotik issiqlik harakati
+~ kontsentratsiyalar farqi tufayli zaryad tashuvchilarning harakati}
+
+Xususiy yarimo‘tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi?{
+~ kovaklar
+= elektronlar va kovaklar
+~ manfiy ionlar
+~ musbat ionlar}
+
+p- yarimo‘tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi?{
+= kovaklar
+~ elektronlar va kovaklar
+~ manfiy ionlar
+~ musbat ionlar}
+
+To‘g‘irlovchi  diod bu {
+~ elektr yoritgich asbob
+= elektr o‘zgartiruvchi asbob
+~ fotoelektrik asbob
+~ termoelektrik  asbob}
+
+Yarimo‘kazgich diodda p-n o‘tish soni nechta?{
+= 1
+~ 2
+~ 3
+~ 4}
+
+Termorezistor qanday asbob{
+~ elektr o‘zgartiruvchi asbob
+= termoelektrik  asbob
+~ elektr yoritgich asbob
+~ fotoelektrik asbob}
+
+p-n o‘tish kengligi nimalarga bog‘liq?{
+~ teskari ulangan kuchlanishga bog‘liq
+= faqat kiritmalar kontsentratsiyasiga
+~ faqat yarimo‘tkazgich materialiga
+~ faqat kiritmalarning taqsimlanish xarakteristikasiga}
+
+p-n o‘tishda qaysi zaryad tashuvchilar tok hosil qiladi ?{
+~ kovaklar
+= elektronlar va kovaklar
+~ manfiy ionlar
+~ musbat ionlar}
+
+p-n o‘tish to‘g‘ri siljitilganda tashqi kuchlanishning ...{
+~ n-sohaga ulanuvchi qutbning axamiyati yo‘q
+= manfiy  uchi  n-sohaga ulanadi, natijaviy maydon kamayadi
+~ musbat uchi  n-sohaga ulanadi, natijaviy maydon ortadi
+~ musbat uchi  n-sohaga ulanadi, natijaviy maydon kamayadi}
+
+p-n o‘tish teskari siljitilganda tashqi kuchlanishning ...{
+~ musbat uchi  n-sohaga ulanadi, natijaviy maydon kamayadi
+= musbat uchi  n-sohaga ulanadi, natijaviy maydon ortadi
+~ manfiy  uchi  n-sohaga ulanadi, natijaviy maydon kamayadi
+~ n-sohaga ulanuvchi qutbning axamiyati yo‘q}
+
+p-n o‘tish to‘g‘ri ulanganda ...{
+= uning kengligi kamayadi, diffuziyz sig‘imi esa ortadi
+~ uning kengligi va barer sig‘imi kamayadi
+~ uning kengligi va barer sig‘imi ortadi
+~ uning kengligi ortadi, barer sig‘imi esa kamayadi}
+
+p-n o‘tish teskari ulanganda ...{
+= uning kengligi ortadi, barer sig‘imi esa kamayadi
+~ uning kengligi va barer sig‘imi kamayadi
+~ uning kengligi va barer sig‘imi ortadi
+~ uning kengligi kamayadi, barer sig‘imi esa ortadi}
+
+O‘zgaruvchan  elektr kondensator  sifatida qo‘llaniladigan diod turi?{
+= varikap
+~ stabilitron
+~ tunnel diod
+~ shottki diodi}
